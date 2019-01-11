@@ -37,6 +37,8 @@ object Str {
     }
     println("总和为 " + total);
 
+    println("test")
+
   }
 
 }
