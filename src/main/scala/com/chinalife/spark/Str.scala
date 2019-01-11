@@ -36,6 +36,10 @@ object Str {
       total +=myArray(i)
     }
     println("总和为 " + total);
+
+    println("test")
+    println("mfh")
+
   }
 
 }
