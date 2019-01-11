@@ -26,6 +26,8 @@ object WordCountLocal {
       .collect()//将分布式的RDD返回一个单机的scala array，在这个数组上运用scala的函数操作，并返回结果到驱动程序
       .foreach(println)//循环打印
 
+
+
   }
 
 
